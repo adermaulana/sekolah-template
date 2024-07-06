@@ -165,8 +165,7 @@ if($data){
                 <div>
                     <h6>Sistem Pendaftaran</h6>
                     <ol>
-                        <li>Online dengan link yang tertera pada<a href="https://docs.google.com/forms/d/e/1FAIpQLSeX2t_UUNzzgw0SOV1DdnlIKbxPEWkCti
-     m_Z4JWDqnhzRs34Q/viewform?vc=0&c=0&w=1&flr=0&pli=1"> link berikut</a></li>
+                        <li>Online dengan link yang tertera pada<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeX2t_UUNzzgw0SOV1DdnlIKbxPEWkCtim_Z4JWDqnhzRs34Q/viewform?vc=0&c=0&w=1&flr=0&pli=1"> link berikut</a></li>
                         <li>Pengambilan & pengambalian Formulir di sekolah</li>
                     </ol>
                 </div>
