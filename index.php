@@ -266,11 +266,11 @@ if($datavisimisi){
 
         <div class="row" data-aos="zoom-in" data-aos-delay="100">
           <div class="col-xl-9 text-center text-xl-start">
-            <h3>Call To Action</h3>
-            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h3>“Akreditasi A”</h3>
+            <p>Sebagai sekolah dengan akreditasi "A", SMK PRIMA TIARA MAKASSAR memiliki rekam jejak prestasi yang membanggakan di tingkat lokal maupun nasional. Siswa-siswanya seringkali meraih penghargaan dalam berbagai kompetisi kejuruan, baik di bidang teknologi, kesehatan, maupun fashion.</p>
           </div>
           <div class="col-xl-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="#">Call To Action</a>
+            <a class="cta-btn align-middle" href="daftar.php">Daftar Sekarang!</a>
           </div>
         </div>
 
@@ -394,7 +394,7 @@ if($datavisimisi){
             ?>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="<?= $delay ?>">
             <div class="team-member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/team/team-1.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="admin/<?= $data['foto'] ?>" class="img-fluid" alt="<?= $data['foto'] ?>"></div>
               <div class="member-info">
                 <h4><?= $data['nama'] ?></h4>
                 <span>Guru <?= $data['keahlian'] ?></span>
